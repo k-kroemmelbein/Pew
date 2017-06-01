@@ -2,15 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.15",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "Pew",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	]
+	"Description": ""
 }
