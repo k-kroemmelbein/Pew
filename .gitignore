@@ -10,5 +10,4 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-
-Build
+Build/
